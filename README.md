@@ -219,3 +219,6 @@ For environments that prioritize **performance and low write latency** (especial
 ---
  
 ## 🔗 Project Links and Reports
+
+**Final Report** - https://github.com/ammygwaba-jpg/Capstone--Project-/blob/d276bb7ea6129f7382bba0b933f8662faf147449/Final%20Report%201.pdf
+
